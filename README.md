@@ -27,6 +27,7 @@ COLUMNS IN THE DATASET:
 This dataset has been obtained from the public domain.
 
 CONCLUSION: 
+
 The price of the house depending upon the necessary parameters is calculated using this project.This project also gives insights about:
 
 1.how type of house is affecting the price
